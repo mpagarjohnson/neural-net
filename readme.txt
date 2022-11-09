@@ -39,3 +39,8 @@ for the network parameters. If init_flag == 1, weights are initialized randomly.
 weights are initialized to zero.
 
 <9> -- float value specifying the learning rate for stochastic gradient descent.
+
+
+
+
+((Project assignment for Introductory Machine Learning Course at Carnegie Mellon University))
